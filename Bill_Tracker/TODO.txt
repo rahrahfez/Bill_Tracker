@@ -1,0 +1,7 @@
+TODO:
+- add input/output to .txt file
+- be able to append list
+- sort list by due date
+- add sum of amount
+- group entries/add sum before cutoff date
+- create GUI
