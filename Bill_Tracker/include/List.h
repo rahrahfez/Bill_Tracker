@@ -10,13 +10,13 @@
 #include <memory>
 
 class List {
-	std::vector<Entry*> _entries;
-	Entry* _entry;
-
+	std::vector<Entry*> m_entries;
+	Entry* m_entry;
 public:
 	List() {}
 	void addEntryToList();
-	void deleteEntryFromList();
+	void deleteEntryFromList(int entry);
 	void printListOfEntries();
+	void saveToFile();
 };
 #endif //LIST_H

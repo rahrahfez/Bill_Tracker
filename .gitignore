@@ -243,3 +243,5 @@ ModelManifest.xml
 /Bill_Tracker/Bill_Tracker.vcxproj.filters
 /Bill_Tracker/Bill_Tracker.vcxproj
 /Bill_Tracker/Bill_Tracker.sln
+/Bill_Tracker/output.txt
+/Bill_Tracker/test.txt
