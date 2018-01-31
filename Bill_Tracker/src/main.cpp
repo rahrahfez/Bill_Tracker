@@ -25,6 +25,6 @@ int main() {
 		}
 		if (input == 4) return false;
 	} while (true);
-
+	std::cout << "Testing github" << std::endl;
 	return 0;
 }
